@@ -49,9 +49,13 @@ body
     text-align: center;
     padding: 0.5em;
 }
+.contenedor-imagen{
+    display: flex;
+}
 #steveComiendo
 {
     vertical-align: middle;
     width: 350px;
-    padding: 0.5em;
+    margin: 0 auto;
+    display: inline-block;
 }
